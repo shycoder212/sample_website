@@ -1,0 +1,18 @@
+.nav-menu {
+    text-align: right;
+}
+
+.nav-spacing{
+    margin: 0 0 0 10px;
+    text-decoration: none;
+    color: hotpink;
+}
+
+#link-style {
+    text-decoration: none;
+    color: hotpink;
+}
+
+.image-link {
+    text-decoration: none;
+}
